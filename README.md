@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-es-mon-autre/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tu Es Mon Autre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-es-mon-autre/) |
+| **Get License** | [Commercial Licensing for Tu Es Mon Autre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-es-mon-autre/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons qui brillent, ton parfum me rend fou
+> On ride sur le périph', avec toi je brave tout
+> Tes lèvres ont le goût du risque, mon cœur bat le tempo
+> Viens un peu plus près de moi, je te veux dans ma peau
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
